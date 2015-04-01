@@ -1,0 +1,57 @@
+* {
+  margin: 0px;
+}
+#contenedor {
+  margin-top: 0px;
+  width: 950px;
+  background-color: #ffffcc;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+}
+#cancha {
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  width: 880px;
+  background-repeat: no-repeat;
+}
+#juego {
+  margin: auto;
+  height: 100%;
+  background-image: url(transp2.png);
+}
+#nenes {
+  position: absolute;
+  top: 485px;
+}
+#animal {
+  top: 300px;
+  position: absolute;
+  left: 150px;
+}
+#animal h3 {
+  text-align: center;
+  font-family: Arial,Helvetica,sans-serif;
+}
+#habla {
+  position: absolute;
+  height: 338px;
+  background-position:  center center;
+  width: 400px;
+  background-image: url(habla.png);
+  background-repeat: no-repeat;
+  top: 60px;
+  right: 51px;
+}
+#habla p {
+  margin-top: 56px;
+  width: 300px;
+  margin-left: 50px;
+  text-align: center;
+  font-style: oblique;
+  font-size: 1.3em;
+  color: #663333;
+  font-weight: bolder;
+}
