@@ -1,5 +1,4 @@
-# elzorropancracio
-El Zorro Pancracio
+# El Zorro Pancracio
 
 Juego educacional sobre las provincias argentinas. 
 
