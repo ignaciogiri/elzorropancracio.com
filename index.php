@@ -8,7 +8,7 @@
 <h2>¡Bienvenidos al juego!</h2><br />
 <form method="post" action="inicio.php">
 <label for="nombre">Tu nombre: </label><input type="text" name="nombre" /><br /><br />
-<input type="radio" name="personaje" value="nene" /> <img src="nene.png"> 
+<input type="radio" name="personaje" value="nene" /> <img src="nene.png">
 <img src="nena.png"> <input type="radio" name="personaje" value="nena" /><br /><br />
 <input type="Submit" value="¡A jugar!" />
 </form>
